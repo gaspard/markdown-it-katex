@@ -22,11 +22,11 @@
   "author": "waylonflinn@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "katex": "^0.16.0"
+    "katex": "^0.16.10"
   },
   "devDependencies": {
-    "markdown-it": "^13.0.0",
-    "markdown-it-testgen": "^0.1.0",
-    "tape": "^5.6.0"
+    "markdown-it": "^14.1.0",
+    "markdown-it-testgen": "^0.1.6",
+    "tape": "^5.7.5"
   }
 }
